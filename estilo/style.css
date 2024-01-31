@@ -38,20 +38,21 @@ header{
     background-image: linear-gradient(to bottom, var(--cor03), var(--cor05));
     height: 150px;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 30px;
     
 }
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
     font-size: 3em;
+    line-height: 0.8em;
     font-weight: normal;
     margin-bottom: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.548);
 }
 header > p{
     font-family: var(--fonte-padrao);
-    font-size: 1.5em;
+    font-size: 1em;
     color: white;
     max-width: 600px;
     padding-right: 10px;
